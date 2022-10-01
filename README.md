@@ -1,3 +1,5 @@
+RUST CONTRACT
+
 NEAR DApp which allows a user to save their NEAR.
 
 Currently i have it configured to count to 3 then reset for testing purposees.
